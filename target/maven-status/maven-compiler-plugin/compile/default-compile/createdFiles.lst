@@ -1,0 +1,6 @@
+com\websystique\springboot\model\User.class
+com\websystique\springboot\service\UserService.class
+com\websystique\springboot\SpringBootRestApiApp.class
+com\websystique\springboot\controller\RestApiController.class
+com\websystique\springboot\util\CustomErrorType.class
+com\websystique\springboot\service\UserServiceImpl.class
